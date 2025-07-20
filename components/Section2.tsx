@@ -1,3 +1,5 @@
+"use client";
+
 import React from 'react'
 import { FaInstagram } from "react-icons/fa6";
 import InstagramEmbed2 from './instagram/InstaPost2';

@@ -48,7 +48,7 @@ const Footer = () => {
 
             </div>
             <div className="foot-footer">
-                <p>© 2023 HyperVision. All rights reserved.</p>
+                <p>2023 HyperVision. All rights reserved.</p>
             </div>
         </footer>
     )

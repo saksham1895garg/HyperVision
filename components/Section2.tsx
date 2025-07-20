@@ -31,7 +31,7 @@ const Section2 = () => {
             </section >
             <section className='apply-now-section'>
                 <h2 className='ready-to-join'>Ready to Join HyperVision?</h2>
-                <p className='apply-now-info'>Become part of a community that's shaping the future through innovation and collaboration.</p>
+                <p className='apply-now-info'>Become part of a community that&apos;s shaping the future through innovation and collaboration.</p>
                 <button className='apply-now-btn' onClick={() => window.open("https://forms.gle/hypervisionApplicationForm", "_blank")}>Apply Now</button>
             </section>
         </>

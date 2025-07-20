@@ -2,8 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 
-import { FaInstagram, FaPeopleLine } from "react-icons/fa6";
-import InstagramEmbed2 from '@/components/instagram/InstaPost2';
+import { FaInstagram } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa6";
 
 const Footer = () => {

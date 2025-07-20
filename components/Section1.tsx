@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaLightbulb } from "react-icons/fa";
 import { GoGraph } from "react-icons/go";
-import { FaInstagram, FaPeopleLine } from "react-icons/fa6";
+import { FaPeopleLine } from "react-icons/fa6";
 
 
 const Section1 = () => {

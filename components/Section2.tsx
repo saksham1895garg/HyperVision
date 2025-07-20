@@ -10,7 +10,7 @@ const Section2 = () => {
                 <div className="main-sec-2-upper-sec">
                     <h1 className='our-work-title'>Our Work</h1>
                     <div className="follow-us">
-                        <a href="https://www.instagram.com/hypervision/" target="_blank" rel="noopener noreferrer">Follow Us</a>
+                        <a href="https://www.instagram.com/hypervision.tech/" target="_blank" rel="noopener noreferrer">Follow Us</a>
                         <FaInstagram className='insta-logo' />
                     </div>
                 </div>
@@ -32,7 +32,7 @@ const Section2 = () => {
             <section className='apply-now-section'>
                 <h2 className='ready-to-join'>Ready to Join HyperVision?</h2>
                 <p className='apply-now-info'>Become part of a community that's shaping the future through innovation and collaboration.</p>
-                <button className='apply-now-btn'>Apply Now</button>
+                <button className='apply-now-btn' onClick={() => window.open('https://forms.gle/hypervisionApplicationForm', '_blank')}>Apply Now</button>
             </section>
         </>
     )
